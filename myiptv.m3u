@@ -16,3 +16,22 @@ http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24147.m3u8?checked
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/F9GnABn.png" group-title="Entertainment;Undefined",Adult Swim,US | Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8?checkedby:hlscat.com
+
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="CA;IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/rsz_tamil_vision_international1.jpg" group-title="Undefined",Tamil Vision International,Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA;IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/PRIMECANADA.png" group-title="Entertainment;Undefined",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/4123.png" group-title="News",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Xplore Channel
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",TAMIL: ZEE TAMIL HD
+http://rv.therevenge.co:80/live/11223344/11223344/83943.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",TAMIL: ZEE THIRAI
+http://rv.therevenge.co:80/live/11223344/11223344/83914.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ZEE CINEMA FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/66140?checkedby:hlscat.com
