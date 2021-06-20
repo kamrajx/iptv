@@ -36,4 +36,11 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSKidsEST.us" tvg-name="PBS Kids (EST)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hkZntiL.png" group-title="Kids",PBS Kids (EST) (720p)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSWorldChannel.us" tvg-name="PBS | World Channel" tvg-country="US" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true" group-title="",PBS | World Channel
-https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8#
+EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="ZEE CINEMALU" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Movies",Zee Cinemalu తెలుగు
+https://y5w8j4a9.ssl.hwcdn.net/zcinemalusd//tracks-v1a1/playlist.m3u8#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="TV9 Kannada" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png" group-title="News",ಟಿವಿ೯ ಕನ್ನಡ TV9 (720p)
+https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
+
+
