@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="test" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="test",testing
 https://kaetdt.lls.cdn.pbs.org/kaetdt/6d08b852-2c19-4eb7-9348-a5e15b685357/primary.m3u8
+#EXTINF:-1 tvg-id="WFWA" tvg-logo="https://image.pbs.org/stations/wfwa-color-logo-CqxfCD0.png",PBS Fort Wayne
+https://wfwadt.lls.cdn.pbs.org/wfwadt/3f02e9df-66c8-4f3d-8f51-a76c7255a45d/primary.m3u8
