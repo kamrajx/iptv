@@ -1,18 +1,18 @@
-#additive manufacturing(AM)
+## Additive manufacturing(AM)
 
 As its name implies, additive manufacturing(AM) adds material to create an object.By contrast, when you create an object by traditional means, it is often necessary to remove material through milling, machining, carving, shaping or other means.
 
 also known as 3D printing and rapid prototyping act it is one the subsets of AM.
 AM can bring digital flexibility and efficiency to manufacturing operations.
 
-#How does additive manufacturing work?
+# How does additive manufacturing work?
 
 growing three-dimensional objects by one superfine layer at a time. Each successive layer bonds to the preceding layer of melted or partially melted material
 
 Objects are digitally defined by computer-aided-design (CAD) software which essentially "slice" the object into ultra-thin layers.
 by this information path of the nozzle or print head is guided to precisely deposits material upon the preceding layer by means of laser 
 
-#advantages
+## advantages
 
 # COMPLEX GEOMETRIES
 
