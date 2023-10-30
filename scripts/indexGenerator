@@ -1,0 +1,4 @@
+#!/bin/sh
+cd ../m3u/
+cat index.clean.null > index.m3u
+cat index.net.m3u >> index.m3u
