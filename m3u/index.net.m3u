@@ -1,7 +1,8 @@
-#EXTINF:-1 tvg-id="TamilVisionInternational.in" tvg-name="Tamil Vision International" tvg-country="IN" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="",Tamil Vision International HD
+#EXTINF:-1 tvg-id="Tamilvision.ca" tvg-name="Tamil Vision TV" tvg-country="CA" tvg-language="Tamil" tvg-type="Entertainment" tvg-shift="-9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="Entertainment",Tamil Vision HD
 https://live.tamilvision.tv/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="3TamilTV.in" tvg-name="3 Tamil TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Entertainment",3 Tamil TV (720p)
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8#EXTINF:-1 tvg-id="PBSKidsEST.us" tvg-name="PBS Kids (EST)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hkZntiL.png" group-title="Education;Kids",PBS Kids (EST)
+#EXTINF:-1 tvg-id="3TamilTV.in" tvg-name="3 Tamil TV" tvg-country="AU" tvg-language="Tamil" tvg-type="Entertainment" tvg-shift="-9" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Entertainment",3 Tamil TV (720p)
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEST.us" tvg-name="PBS Kids (EST)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hkZntiL.png" group-title="Education;Kids",PBS Kids (EST)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSKidsPacific.us" tvg-name="PBS Kids (Pacific)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Pacific (1080p)
 https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
