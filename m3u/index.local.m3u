@@ -37,7 +37,8 @@ http://10.0.7.77:3500/getm3u8/1518/master.m3u8
 #EXTINF:-1 tvg-chno="726" tvg-name="DD5 Podhigai" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", DD5 Podhigai 
 http://10.0.7.77:3500/getm3u8/726/master.m3u8
 #EXTINF:-1 tvg-chno="2256" tvg-name="Zee Thirai" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", Zee Thirai 
-http://10.0.7.77:3500/getm3u8/2256/master.m3u8#EXTINF:-1 tvg-chno="894" tvg-name="KTV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", KTV HD 
+http://10.0.7.77:3500/getm3u8/2256/master.m3u8
+#EXTINF:-1 tvg-chno="894" tvg-name="KTV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", KTV HD 
 #EXTINF:-1 tvg-chno="894" tvg-name="KTV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", KTV HD 
 http://10.0.7.77:3500/getm3u8/894/master.m3u8
 #EXTINF:-1 tvg-chno="417" tvg-name="J Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", J Movies 
