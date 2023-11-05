@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1001" tvg-name="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Pogo Tamil 
-http://10.0.7.77:3500/getm3u8/542/master.m3u8
-#EXTINF:-1 tvg-id="PBSKidsEST.us" tvg-name="PBS Kids (EST)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hkZntiL.png" group-title="Kids",PBS Kids (EST) (720p)
+
+#EXTINF:-1 tvg-id="PBSKidsEST.us" tvg-name="PBS Kids (EST)" tvg-country="US" tvg-shift="-5" tvg-language="English" tvg-logo="https://i.imgur.com/hkZntiL.png" group-title="Kids",PBS Kids (EST) (720p)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8

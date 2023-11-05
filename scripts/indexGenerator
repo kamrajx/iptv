@@ -1,4 +1,32 @@
 #!/bin/sh
 cd ../m3u/
-cat index.clean.null > index.m3u
-cat index.net.m3u >> index.m3u
+echo "#EXTM3U\n" > ./index.in.m3u
+
+# cat index.tam.m3u >> ./index.in.m3u
+
+#tamil
+cat local.tam.ent.in.m3u >> ./index.in.m3u
+echo "\n" >> ./index.in.m3u  
+cat local.tam.movies.in.m3u >> ./index.in.m3u
+echo "\n" >> ./index.in.m3u
+cat local.tam.kids.in.m3u >> ./index.in.m3u
+echo "\n" >> ./index.in.m3u
+cat local.tam.info.in.m3u >> ./index.in.m3u
+echo "\n" >> ./index.in.m3u
+#tamil worldwild
+cat net.tam.m3u >> ./index.in.m3u
+echo "\n" >> ./index.in.m3u
+
+#info
+cat local.info.eng.in.m3u >> ./index.in.m3u
+##echo "\n" >> ./index.in.m3u
+#movies
+cat local.movives.eng.in.m3u >> ./index.in.m3u
+echo "\n" >> ./index.in.m3u
+
+
+#add to all index
+cat index.in.m3u > ./index.m3u
+# echo "\n" >> ./index.m3u
+
+
