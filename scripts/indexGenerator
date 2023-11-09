@@ -1,6 +1,6 @@
 #!/bin/sh
 cd ../m3u/
-echo "#EXTM3U" > ./index.in.m3u
+echo "#EXTM3U  x-tvg-url="https://tobalan.github.io/epg.xml.gz"" > ./index.in.m3u
 cat index.nl.m3u >> ./index.in.m3u
 
 # cat index.tam.m3u >> ./index.in.m3u
