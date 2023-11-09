@@ -1,14 +1,14 @@
-#EXTINF:-1 tvg-chno="542" tvg-name="Pogo Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Pogo Tamil 
+#EXTINF:-1 tvg-chno="129" tvg-name="Pogo Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Pogo Tamil 
 http://10.0.7.77:3500/getm3u8/542/master.m3u8
-#EXTINF:-1 tvg-chno="546" tvg-name="Nick Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Nick Tamil 
+#EXTINF:-1 tvg-chno="130" tvg-name="Nick Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Nick Tamil 
 http://10.0.7.77:3500/getm3u8/546/master.m3u8
-#EXTINF:-1 tvg-chno="550" tvg-name="Discovery Kids Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/550/index.m3u8" catchup-days="7", Discovery Kids Tamil 
+#EXTINF:-1 tvg-chno="131" tvg-name="Discovery Kids Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/550/index.m3u8" catchup-days="7", Discovery Kids Tamil 
 http://10.0.7.77:3500/getm3u8/550/master.m3u8
-#EXTINF:-1 tvg-chno="557" tvg-name="Chutti TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Chutti TV 
+#EXTINF:-1 tvg-chno="132" tvg-name="Chutti TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Chutti TV 
 http://10.0.7.77:3500/getm3u8/557/master.m3u8
-#EXTINF:-1 tvg-chno="817" tvg-name="Cartoon Network Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Cartoon Network Tamil 
+#EXTINF:-1 tvg-chno="133" tvg-name="Cartoon Network Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Cartoon Network Tamil 
 http://10.0.7.77:3500/getm3u8/817/master.m3u8
-#EXTINF:-1 tvg-chno="873" tvg-name="Sony Yay Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/873/index.m3u8" catchup-days="7", Sony Yay Tamil 
+#EXTINF:-1 tvg-chno="134" tvg-name="Sony Yay Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/873/index.m3u8" catchup-days="7", Sony Yay Tamil 
 http://10.0.7.77:3500/getm3u8/873/master.m3u8
-#EXTINF:-1 tvg-chno="1081" tvg-name="CN HD+ Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", CN HD+ Tamil 
+#EXTINF:-1 tvg-chno="135" tvg-name="CN HD+ Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", CN HD+ Tamil 
 http://10.0.7.77:3500/getm3u8/1081/master.m3u8
