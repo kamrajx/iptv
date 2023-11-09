@@ -95,7 +95,8 @@ http://10.0.7.77:3500/getm3u8/823/master.m3u8
 #EXTINF:-1 tvg-chno="509" tvg-name="Animal Planet English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/567/index.m3u8" catchup-days="7", Animal Planet English 
 http://10.0.7.77:3500/getm3u8/567/master.m3u8
 #EXTINF:-1 tvg-chno="510" tvg-name="Wild Earth" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Wild Earth 
-http://10.0.7.77:3500/getm3u8/2437/master.m3u8#EXTINF:-1 tvg-chno="550" tvg-name="Sony Pix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Sony Pix HD 
+http://10.0.7.77:3500/getm3u8/2437/master.m3u8
+#EXTINF:-1 tvg-chno="550" tvg-name="Sony Pix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Sony Pix HD 
 http://10.0.7.77:3500/getm3u8/762/master.m3u8
 #EXTINF:-1 tvg-chno="551" tvg-name="&Flix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", &Flix HD 
 http://10.0.7.77:3500/getm3u8/1322/master.m3u8

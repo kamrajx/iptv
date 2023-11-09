@@ -20,7 +20,7 @@ cat index.nl.m3u >> ./index.in.m3u
 
 #info
 cat local.info.eng.in.m3u >> ./index.in.m3u
-##cat index.nl.m3u >> ./index.in.m3u
+cat index.nl.m3u >> ./index.in.m3u
 #movies
 cat local.movives.eng.in.m3u >> ./index.in.m3u
 cat index.nl.m3u >> ./index.in.m3u
