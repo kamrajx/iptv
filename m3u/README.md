@@ -3,16 +3,11 @@
 ## m3u local lists
 all_m3u :
     
-    https://kamrajx.github.io/m3u/samtvplus/index.m3u
+    https://kamrajx.github.io/m3u/index.m3u
 
 indian and tamil net world wild :
     
     https://kamrajx.github.io/iptv/m3u/index.in.m3u
-
-
-
-
-
 
 
 ## sampule tv
