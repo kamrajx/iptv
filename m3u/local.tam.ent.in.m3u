@@ -1,7 +1,5 @@
 #EXTINF:-1 tvg-chno="101" tvg-name="Zee Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Zee Tamil HD 
 http://10.0.7.77:3500/getm3u8/1356/master.m3u8
-#EXTINF:-1 tvg-chno="102" tvg-name="Zee Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Zee Tamil 
-http://10.0.7.77:3500/getm3u8/628/master.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-name="Sun TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Sun TV HD 
 http://10.0.7.77:3500/getm3u8/896/master.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-name="Jaya TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/419/index.m3u8" catchup-days="7", Jaya TV HD 
@@ -30,8 +28,6 @@ http://10.0.7.77:3500/getm3u8/857/master.m3u8
 http://10.0.7.77:3500/getm3u8/971/master.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-name="Kalaignar TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/1209/index.m3u8" catchup-days="7", Kalaignar TV 
 http://10.0.7.77:3500/getm3u8/1209/master.m3u8
-#EXTINF:-1 tvg-chno="117" tvg-name="Colors Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/1371/index.m3u8" catchup-days="7", Colors Tamil 
-http://10.0.7.77:3500/getm3u8/1371/master.m3u8
 #EXTINF:-1 tvg-chno="118" tvg-name="Moon TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/1518/index.m3u8" catchup-days="7", Moon TV 
 http://10.0.7.77:3500/getm3u8/1518/master.m3u8
 #EXTINF:-1 tvg-chno="119" tvg-name="DD5 Podhigai" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", DD5 Podhigai 
