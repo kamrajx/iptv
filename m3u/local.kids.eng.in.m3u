@@ -6,11 +6,3 @@ http://10.0.7.77:3500/getm3u8/1226/master.m3u8
 http://10.0.7.77:3500/getm3u8/547/master.m3u8
 #EXTINF:-1 tvg-chno="523" tvg-name="Nickelodeon Jr." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nickelodeon Jr. 
 http://10.0.7.77:3500/getm3u8/548/master.m3u8
-#EXTINF:-1 tvg-chno="524" tvg-name="HooplaKidz TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png" tvg-language="English" tvg-type="Kids" group-title="Kids" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/1780/index.m3u8" catchup-days="7", HooplaKidz TV 
-http://10.0.7.77:3500/getm3u8/1780/master.m3u8
-#EXTINF:-1 tvg-chno="525" tvg-name="DreamWorks" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dreamworks.png" tvg-language="English" tvg-type="Kids" group-title="Kids", DreamWorks 
-http://10.0.7.77:3500/getm3u8/1872/master.m3u8
-#EXTINF:-1 tvg-chno="526" tvg-name="Highbrow" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" tvg-language="English" tvg-type="Kids" group-title="Kids" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/1216/index.m3u8" catchup-days="7", Highbrow 
-http://10.0.7.77:3500/getm3u8/1216/master.m3u8
-#EXTINF:-1 tvg-chno="527" tvg-name="TEST14 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST14_HD.png" tvg-language="English" tvg-type="Kids" group-title="Kids", TEST14 HD 
-http://10.0.7.77:3500/getm3u8/551/master.m3u8

@@ -33,5 +33,5 @@ cat index.in.m3u > ./index.m3u
 cat index.nl.m3u >> ./index.m3u
 
 #samtv
- cat sam.us.info.m3u >> ./index.sam.us.m3u
+ cat sam.us.info.m3u > ./index.sam.us.m3u
  cat index.nl.m3u >> ./index.sam.us.m3u
