@@ -7,16 +7,17 @@ cat index.nl.m3u >> ./index.in.m3u
 
 #tamil
 cat local.tam.ent.in.m3u >> ./index.in.m3u
-cat index.nl.m3u >> ./index.in.m3u  
+cat index.nl.m3u >> ./index.in.m3u
+#tamil worldwild
+cat net.tam.m3u >> ./index.in.m3u
+cat index.nl.m3u >> ./index.in.m3u
 cat local.tam.movies.in.m3u >> ./index.in.m3u
 cat index.nl.m3u >> ./index.in.m3u
 cat local.tam.kids.in.m3u >> ./index.in.m3u
 cat index.nl.m3u >> ./index.in.m3u
 cat local.tam.info.in.m3u >> ./index.in.m3u
 cat index.nl.m3u >> ./index.in.m3u
-#tamil worldwild
-cat net.tam.m3u >> ./index.in.m3u
-cat index.nl.m3u >> ./index.in.m3u
+
 
 #info
 cat local.info.eng.in.m3u >> ./index.in.m3u
@@ -35,3 +36,9 @@ cat index.nl.m3u >> ./index.m3u
 #samtv
  cat sam.us.info.m3u > ./index.sam.us.m3u
  cat index.nl.m3u >> ./index.sam.us.m3u
+
+#free in web
+cat net.kids.m3u > ./index.net.m3u
+cat index.nl.m3u >> ./index.net.m3u
+cat net.edu.m3u >> ./index.net.m3u
+cat index.nl.m3u >> ./index.net.m3u
