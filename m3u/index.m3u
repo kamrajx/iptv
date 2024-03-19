@@ -1,4 +1,3 @@
-#EXTM3U  x-tvg-url=https://tobalan.github.io/epg.xml.gz
 
 #EXTINF:-1 tvg-chno="101" tvg-name="Zee Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Zee Tamil HD 
 http://10.0.7.77:3500/getm3u8/1356/master.m3u8
@@ -48,34 +47,22 @@ http://10.0.7.77:3500/getm3u8/417/master.m3u8
 http://10.0.7.77:3500/getm3u8/683/master.m3u8
 #EXTINF:-1 tvg-chno="124" tvg-name="Sun Life" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", Sun Life 
 http://10.0.7.77:3500/getm3u8/682/master.m3u8
-#EXTINF:-1 tvg-chno="129" tvg-name="Pogo Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Pogo Tamil 
+#EXTINF:-1 tvg-chno="129" tvg-name="Pogo" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Pogo 
 http://10.0.7.77:3500/getm3u8/542/master.m3u8
-#EXTINF:-1 tvg-chno="130" tvg-name="Nick Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Nick Tamil 
-http://10.0.7.77:3500/getm3u8/546/master.m3u8
-#EXTINF:-1 tvg-chno="131" tvg-name="Discovery Kids Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/550/index.m3u8" catchup-days="7", Discovery Kids Tamil 
+#EXTINF:-1 tvg-chno="131" tvg-name="Discovery Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/550/index.m3u8" catchup-days="7", Discovery Kids 
 http://10.0.7.77:3500/getm3u8/550/master.m3u8
 #EXTINF:-1 tvg-chno="132" tvg-name="Chutti TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Chutti TV 
 http://10.0.7.77:3500/getm3u8/557/master.m3u8
-#EXTINF:-1 tvg-chno="133" tvg-name="Cartoon Network Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Cartoon Network Tamil 
-http://10.0.7.77:3500/getm3u8/817/master.m3u8
-#EXTINF:-1 tvg-chno="134" tvg-name="Sony Yay Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/873/index.m3u8" catchup-days="7", Sony Yay Tamil 
-http://10.0.7.77:3500/getm3u8/873/master.m3u8
-#EXTINF:-1 tvg-chno="135" tvg-name="CN HD+ Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", CN HD+ Tamil 
-http://10.0.7.77:3500/getm3u8/1081/master.m3u8
+
 #EXTINF:-1 tvg-chno="125" tvg-name="D Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" tvg-language="Tamil" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/569/index.m3u8" catchup-days="7", D Tamil 
 http://10.0.7.77:3500/getm3u8/569/master.m3u8
 #EXTINF:-1 tvg-chno="126" tvg-name="History TV18 HD Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" tvg-language="Tamil" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/579/index.m3u8" catchup-days="7", History TV18 HD Tamil 
 http://10.0.7.77:3500/getm3u8/579/master.m3u8
-#EXTINF:-1 tvg-chno="127" tvg-name="Sony BBC Earth HD Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" tvg-language="Tamil" tvg-type="Infotainment" group-title="Infotainment", Sony BBC Earth HD Tamil 
-http://10.0.7.77:3500/getm3u8/853/master.m3u8
-#EXTINF:-1 tvg-chno="128" tvg-name="Animal Planet HD Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" tvg-language="Tamil" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/1219/index.m3u8" catchup-days="7", Animal Planet HD Tamil 
-http://10.0.7.77:3500/getm3u8/1219/master.m3u8
+
 #EXTINF:-1 tvg-chno="500" tvg-name="History TV18 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/146/index.m3u8" catchup-days="7", History TV18 HD 
 http://10.0.7.77:3500/getm3u8/146/master.m3u8
 #EXTINF:-1 tvg-chno="501" tvg-name="Discovery HD World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/463/index.m3u8" catchup-days="7", Discovery HD World 
 http://10.0.7.77:3500/getm3u8/463/master.m3u8
-#EXTINF:-1 tvg-chno="502" tvg-name="Sony BBC Earth HD English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Sony BBC Earth HD English 
-http://10.0.7.77:3500/getm3u8/852/master.m3u8
 #EXTINF:-1 tvg-chno="503" tvg-name="Animal Planet HD World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/286/index.m3u8" catchup-days="7", Animal Planet HD World 
 http://10.0.7.77:3500/getm3u8/286/master.m3u8
 #EXTINF:-1 tvg-chno="505" tvg-name="Discovery" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/242/index.m3u8" catchup-days="7", Discovery 
@@ -84,14 +71,13 @@ http://10.0.7.77:3500/getm3u8/242/master.m3u8
 http://10.0.7.77:3500/getm3u8/568/master.m3u8
 #EXTINF:-1 tvg-chno="507" tvg-name="Discovery Turbo" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/541/index.m3u8" catchup-days="7", Discovery Turbo 
 http://10.0.7.77:3500/getm3u8/541/master.m3u8
-#EXTINF:-1 tvg-chno="510" tvg-name="Wild Earth" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Wild Earth 
-http://10.0.7.77:3500/getm3u8/2437/master.m3u8
+
 #EXTINF:-1 tvg-chno="551" tvg-name="&Flix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", &Flix HD 
 http://10.0.7.77:3500/getm3u8/1322/master.m3u8
 #EXTINF:-1 tvg-chno="552" tvg-name="And Prive HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", And Prive HD 
 http://10.0.7.77:3500/getm3u8/1349/master.m3u8
 
-#EXTINF:-1 tvg-chno="520" tvg-name="CN HD+ English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" tvg-language="English" tvg-type="Kids" group-title="Kids", CN HD+ English 
+#EXTINF:-1 tvg-chno="520" tvg-name="CN HD+ English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" tvg-language="English" tvg-type="Kids" group-title="Kids", CN HD+ 
 http://10.0.7.77:3500/getm3u8/1079/master.m3u8
 #EXTINF:-1 tvg-chno="521" tvg-name="Nick HD+" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+ 
 http://10.0.7.77:3500/getm3u8/1226/master.m3u8
