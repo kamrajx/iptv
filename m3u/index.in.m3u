@@ -6,7 +6,7 @@ http://10.0.7.77:3500/getm3u8/896/master.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-name="Jaya TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/419/index.m3u8" catchup-days="7", Jaya TV HD 
 http://10.0.7.77:3500/getm3u8/419/master.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-name="Colors Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/429/index.m3u8" catchup-days="7", Colors Tamil HD 
-http://10.0.7.77:3500/getm3u8/429/master.m3u8
+http://10.0.1.106:5001/live/429.m3u8
 #EXTINF:-1 tvg-chno="106" tvg-name="Polimer TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/705/index.m3u8" catchup-days="7", Polimer TV 
 http://10.0.7.77:3500/getm3u8/705/master.m3u8
 #EXTINF:-1 tvg-chno="107" tvg-name="Raj TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/707/index.m3u8" catchup-days="7", Raj TV 
@@ -33,6 +33,7 @@ http://10.0.7.77:3500/getm3u8/1209/master.m3u8
 http://10.0.7.77:3500/getm3u8/1518/master.m3u8
 #EXTINF:-1 tvg-chno="119" tvg-name="DD5 Podhigai" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", DD5 Podhigai 
 http://10.0.7.77:3500/getm3u8/726/master.m3u8
+
 #EXTINF:-1 tvg-id="Tamilvision.ca" tvg-chno="180" tvg-name="Tamil Vision TV" tvg-country="CA" tvg-language="Tamil" tvg-type="Entertainment" tvg-shift="-9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="Entertainment",Tamil Vision HD
 https://live.tamilvision.tv/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-id="3TamilTV.in" tvg-chno="181" tvg-name="3 Tamil TV" tvg-country="AU" tvg-language="Tamil" tvg-type="Entertainment" tvg-shift="-9" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Entertainment",3 Tamil TV (720p)
