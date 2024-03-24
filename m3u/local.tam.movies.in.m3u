@@ -1,10 +1,10 @@
 #EXTINF:-1 tvg-chno="120" tvg-name="Zee Thirai" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", Zee Thirai 
-http://10.0.7.77:3500/getm3u8/2256/master.m3u8
+http://10.0.7.77:5001/live/2256.m3u8
 #EXTINF:-1 tvg-chno="121" tvg-name="KTV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", KTV HD 
-http://10.0.7.77:3500/getm3u8/894/master.m3u8
+http://10.0.7.77:5001/live/894.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-name="J Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", J Movies 
-http://10.0.7.77:3500/getm3u8/417/master.m3u8
+http://10.0.7.77:5001/live/417.m3u8
 #EXTINF:-1 tvg-chno="123" tvg-name="Raj Digital Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/683/index.m3u8" catchup-days="7", Raj Digital Plus 
-http://10.0.7.77:3500/getm3u8/683/master.m3u8
+http://10.0.7.77:5001/live/683.m3u8
 #EXTINF:-1 tvg-chno="124" tvg-name="Sun Life" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", Sun Life 
-http://10.0.7.77:3500/getm3u8/682/master.m3u8
+http://10.0.7.77:5001/live/682.m3u8

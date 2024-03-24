@@ -8,6 +8,9 @@ all_m3u :
 indian and tamil net world wild :
     
     https://kamrajx.github.io/iptv/m3u/index.in.m3u
+EGP:
+	
+	http://10.0.7.77:5001/epg.xml.gz
 
 
 ## sampule tv

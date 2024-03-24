@@ -1,8 +1,8 @@
 #EXTINF:-1 tvg-chno="520" tvg-name="CN HD+ English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" tvg-language="English" tvg-type="Kids" group-title="Kids", CN HD+ 
-http://10.0.7.77:3500/getm3u8/1079/master.m3u8
+http://10.0.7.77:5001/live/1079.m3u8
 #EXTINF:-1 tvg-chno="521" tvg-name="Nick HD+" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+ 
-http://10.0.7.77:3500/getm3u8/1226/master.m3u8
+http://10.0.7.77:5001/live/1226.m3u8
 #EXTINF:-1 tvg-chno="522" tvg-name="Nickelodeon" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nickelodeon 
-http://10.0.7.77:3500/getm3u8/547/master.m3u8
+http://10.0.7.77:5001/live/547.m3u8
 #EXTINF:-1 tvg-chno="523" tvg-name="Nickelodeon Jr." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nickelodeon Jr. 
-http://10.0.7.77:3500/getm3u8/548/master.m3u8
+http://10.0.7.77:5001/live/548.m3u8
