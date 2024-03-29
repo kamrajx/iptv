@@ -30,6 +30,7 @@ cat index.nl.m3u >> ./index.local.eng.in.m3u
 
 #add to all index.in [in]
 echo "#EXTM3U  x-tvg-url="https://tobalan.github.io/epg.xml.gz"" > ./index.in.m3u
+#echo "#EXTM3U  x-tvg-url="https://tobalan.github.io/epg.xml.gz"" > ./index.in.m3u
 #cat index.nl.m3u >> ./index.in.m3u
 cat index.local.tam.in.m3u >> ./index.in.m3u
 #cat index.nl.m3u >> ./index.in.m3u
