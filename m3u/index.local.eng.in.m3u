@@ -14,6 +14,10 @@ http://10.0.7.77:5001/live/541.m3u8
 http://10.0.7.77:5001/live/1322.m3u8
 #EXTINF:-1 tvg-id="1349" tvg-name="And Prive HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", And Prive HD 
 http://10.0.7.77:5001/live/1349.m3u8
+#EXTINF:-1 tvg-id=2756 tvg-name="Star Entertainment" tvg-logo="http://10.0.7.77:5001/jtvimage/Star_Entertainment.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Star Entertainment
+http://10.0.7.77:5001/live/2756.m3u8
+#EXTINF:-1 tvg-id=sl762 tvg-name="SL Sony PIX HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Sony_Pix_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", SL Sony PIX HD
+http://10.0.7.77:5001/live/sl762.m3u8
 #EXTINF:-1 tvg-id="1079" tvg-name="CN HD+ English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" tvg-language="English" tvg-type="Kids" group-title="Kids", CN HD+ 
 http://10.0.7.77:5001/live/1079.m3u8
 #EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+ 
