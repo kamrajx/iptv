@@ -1,44 +1,56 @@
 #!/bin/sh
 cd ../m3u/
-echo "#EXTM3U  x-tvg-url="http://10.0.7.77:5001/epg.xml.gz"" > ./index.in.m3u
-cat index.nl.m3u > ./index.in.m3u
 
-# cat index.tam.m3u >> ./index.in.m3u
-
-#tamil
-cat local.tam.ent.in.m3u >> ./index.in.m3u
-cat index.nl.m3u >> ./index.in.m3u
-#tamil worldwild
-cat net.tam.m3u >> ./index.in.m3u
-cat index.nl.m3u >> ./index.in.m3u
-cat local.tam.movies.in.m3u >> ./index.in.m3u
-cat index.nl.m3u >> ./index.in.m3u
-cat local.tam.kids.in.m3u >> ./index.in.m3u
-cat index.nl.m3u >> ./index.in.m3u
-cat local.tam.info.in.m3u >> ./index.in.m3u
-cat index.nl.m3u >> ./index.in.m3u
-
-
-#info
-cat local.info.eng.in.m3u >> ./index.in.m3u
-cat index.nl.m3u >> ./index.in.m3u
+#tamil [local.tam]
+#ent
+cat local.tam.ent.in.m3u > ./index.local.tam.in.m3u
+cat index.nl.m3u >> ./index.local.tam.in.m3u
 #movies
-cat local.movives.eng.in.m3u >> ./index.in.m3u
-cat index.nl.m3u >> ./index.in.m3u
-##kids
-cat local.kids.eng.in.m3u >> ./index.in.m3u
-cat index.nl.m3u >> ./index.in.m3u
+cat local.tam.movies.in.m3u >> ./index.local.tam.in.m3u
+cat index.nl.m3u >> ./index.local.tam.in.m3u
+#kids
+cat local.tam.kids.in.m3u >> ./index.local.tam.in.m3u
+cat index.nl.m3u >> ./index.local.tam.in.m3u
+#info
+cat local.tam.info.in.m3u >> ./index.local.tam.in.m3u
+cat index.nl.m3u >> ./index.local.tam.in.m3u
 
-#add to all index
-cat index.in.m3u > ./index.m3u
-cat index.nl.m3u >> ./index.m3u
+
+#ENGLISH [local.eng]
+#info
+cat local.info.eng.in.m3u > ./index.local.eng.in.m3u
+cat index.nl.m3u >> ./index.local.eng.in.m3u
+#movies
+cat local.movives.eng.in.m3u >> ./index.local.eng.in.m3u
+cat index.nl.m3u >> ./index.local.eng.in.m3u
+##kids
+cat local.kids.eng.in.m3u >> ./index.local.eng.in.m3u
+cat index.nl.m3u >> ./index.local.eng.in.m3u
+
+
+#add to all index.in [in]
+echo "#EXTM3U  x-tvg-url="https://tobalan.github.io/epg.xml.gz"" > ./index.in.m3u
+#cat index.nl.m3u >> ./index.in.m3u
+cat index.local.tam.in.m3u >> ./index.in.m3u
+#cat index.nl.m3u >> ./index.in.m3u
+cat index.local.eng.in.m3u >> ./index.in.m3u
+#cat index.nl.m3u >> ./index.in.m3u
+
 
 #samtv
- cat sam.us.info.m3u > ./index.sam.us.m3u
- cat index.nl.m3u >> ./index.sam.us.m3u
+cat sam.us.info.m3u > ./index.sam.us.m3u
+cat index.nl.m3u >> ./index.sam.us.m3u
 
-#free in web
-cat net.kids.m3u > ./index.net.m3u
+#free in web [net]
+cat net.tam.m3u > ./index.net.m3u
+cat index.nl.m3u >> ./index.net.m3u
+cat net.kids.m3u >> ./index.net.m3u
 cat index.nl.m3u >> ./index.net.m3u
 cat net.edu.m3u >> ./index.net.m3u
 cat index.nl.m3u >> ./index.net.m3u
+
+# all index.m3u
+cat index.in.m3u > ./index.m3u
+#cat index.nl.m3u >> ./index.m3u
+cat index.net.m3u >> ./index.m3u
+#cat index.nl.m3u >> ./index.m3u

@@ -1,4 +1,4 @@
-
+#EXTM3U  x-tvg-url=https://tobalan.github.io/epg.xml.gz
 #EXTINF:-1 tvg-chno="101" tvg-name="Zee Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Zee Tamil HD 
 http://10.0.7.77:5001/live/1356.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-name="Sun TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Sun TV HD 
@@ -33,11 +33,6 @@ http://10.0.7.77:5001/live/1209.m3u8
 http://10.0.7.77:5001/live/1518.m3u8
 #EXTINF:-1 tvg-chno="119" tvg-name="DD5 Podhigai" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", DD5 Podhigai 
 http://10.0.7.77:5001/live/726.m3u8
-
-#EXTINF:-1 tvg-id="Tamilvision.ca" tvg-chno="180" tvg-name="Tamil Vision TV" tvg-country="CA" tvg-language="Tamil" tvg-type="Entertainment" tvg-shift="-9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="Entertainment",Tamil Vision HD
-https://live.tamilvision.tv/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="3TamilTV.in" tvg-chno="181" tvg-name="3 Tamil TV" tvg-country="AU" tvg-language="Tamil" tvg-type="Entertainment" tvg-shift="-9" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Entertainment",3 Tamil TV (720p)
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-chno="120" tvg-name="Zee Thirai" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", Zee Thirai 
 http://10.0.7.77:5001/live/2256.m3u8
 #EXTINF:-1 tvg-chno="121" tvg-name="KTV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", KTV HD 
@@ -54,7 +49,6 @@ http://10.0.7.77:5001/live/542.m3u8
 http://10.0.7.77:5001/live/550.m3u8
 #EXTINF:-1 tvg-chno="132" tvg-name="Chutti TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Chutti TV 
 http://10.0.7.77:5001/live/557.m3u8
-
 #EXTINF:-1 tvg-chno="125" tvg-name="D Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" tvg-language="Tamil" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/569/index.m3u8" catchup-days="7", D Tamil 
 http://10.0.7.77:5001/live/569.m3u8
 #EXTINF:-1 tvg-chno="126" tvg-name="History TV18 HD Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" tvg-language="Tamil" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/579/index.m3u8" catchup-days="7", History TV18 HD Tamil 
@@ -71,12 +65,10 @@ http://10.0.7.77:5001/live/242.m3u8
 http://10.0.7.77:5001/live/568.m3u8
 #EXTINF:-1 tvg-chno="507" tvg-name="Discovery Turbo" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/541/index.m3u8" catchup-days="7", Discovery Turbo 
 http://10.0.7.77:5001/live/541.m3u8
-
 #EXTINF:-1 tvg-chno="551" tvg-name="&Flix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", &Flix HD 
 http://10.0.7.77:5001/live/1322.m3u8
 #EXTINF:-1 tvg-chno="552" tvg-name="And Prive HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", And Prive HD 
 http://10.0.7.77:5001/live/1349.m3u8
-
 #EXTINF:-1 tvg-chno="520" tvg-name="CN HD+ English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" tvg-language="English" tvg-type="Kids" group-title="Kids", CN HD+ 
 http://10.0.7.77:5001/live/1079.m3u8
 #EXTINF:-1 tvg-chno="521" tvg-name="Nick HD+" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+ 
@@ -85,5 +77,24 @@ http://10.0.7.77:5001/live/1226.m3u8
 http://10.0.7.77:5001/live/547.m3u8
 #EXTINF:-1 tvg-chno="523" tvg-name="Nickelodeon Jr." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nickelodeon Jr. 
 http://10.0.7.77:5001/live/548.m3u8
-
-
+#EXTINF:-1 tvg-id="Tamilvision.ca" tvg-chno="180" tvg-name="Tamil Vision TV" tvg-country="CA" tvg-language="Tamil" tvg-type="Entertainment" tvg-shift="-9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="Entertainment",Tamil Vision HD
+https://live.tamilvision.tv/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-id="3TamilTV.in" tvg-chno="181" tvg-name="3 Tamil TV" tvg-country="AU" tvg-language="Tamil" tvg-type="Entertainment" tvg-shift="-9" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Entertainment",3 Tamil TV (720p)
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEST.us" tvg-name="PBS Kids (EST)" tvg-country="US" tvg-shift="-5" tvg-language="English" tvg-logo="https://i.imgur.com/hkZntiL.png" group-title="Education;Kids",PBS Kids (EST)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Animation",Toonami (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
+#EXTINF:-1 tvg-id="ToonamiAftermathEast.us" tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="Animation",Toonami Aftermath East (480p)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-id="OnePiece.us" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="Animation",Pluto TV One Piece (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Animation",EnerGeek (720p) [Not 24/7]
+https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Music",EnerGeek Radio (1080p)
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+#EXTINF:-1 tvg-id="EnglishClass.ru" tvg-logo="https://i.imgur.com/gst7wW7.png" group-title="Education" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",English Class (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-1 tvg-id="JOABDTV.jp" tvg-logo="https://i.imgur.com/WxtftlO.png" group-title="Education",NHK E (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
