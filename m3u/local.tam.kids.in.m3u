@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="542" tvg-name="Pogo" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Pogo 
+#EXTINF:-1 tvg-id=542 tvg-name="Pogo Tamil" tvg-logo="http://10.0.7.77:5001/jtvimage/Pogo_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Pogo Tamil
 http://10.0.7.77:5001/live/542.m3u8
 #EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/550/index.m3u8" catchup-days="7", Discovery Kids 
 http://10.0.7.77:5001/live/550.m3u8
