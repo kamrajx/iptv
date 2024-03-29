@@ -1,24 +1,24 @@
-#EXTINF:-1 tvg-chno="500" tvg-name="History TV18 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/146/index.m3u8" catchup-days="7", History TV18 HD 
+#EXTINF:-1 tvg-id="146" tvg-name="History TV18 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/146/index.m3u8" catchup-days="7", History TV18 HD 
 http://10.0.7.77:5001/live/146.m3u8
-#EXTINF:-1 tvg-chno="501" tvg-name="Discovery HD World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/463/index.m3u8" catchup-days="7", Discovery HD World 
+#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/463/index.m3u8" catchup-days="7", Discovery HD World 
 http://10.0.7.77:5001/live/463.m3u8
-#EXTINF:-1 tvg-chno="503" tvg-name="Animal Planet HD World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/286/index.m3u8" catchup-days="7", Animal Planet HD World 
+#EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/286/index.m3u8" catchup-days="7", Animal Planet HD World 
 http://10.0.7.77:5001/live/286.m3u8
-#EXTINF:-1 tvg-chno="505" tvg-name="Discovery" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/242/index.m3u8" catchup-days="7", Discovery 
+#EXTINF:-1 tvg-id="242" tvg-name="Discovery" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/242/index.m3u8" catchup-days="7", Discovery 
 http://10.0.7.77:5001/live/242.m3u8
-#EXTINF:-1 tvg-chno="506" tvg-name="Discovery Science" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/568/index.m3u8" catchup-days="7", Discovery Science 
+#EXTINF:-1 tvg-id="568" tvg-name="Discovery Science" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/568/index.m3u8" catchup-days="7", Discovery Science 
 http://10.0.7.77:5001/live/568.m3u8
-#EXTINF:-1 tvg-chno="507" tvg-name="Discovery Turbo" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/541/index.m3u8" catchup-days="7", Discovery Turbo 
+#EXTINF:-1 tvg-id="541" tvg-name="Discovery Turbo" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment" catchup="vod" catchup-source="http://10.0.7.77:3500/catchup/getm3u8/${start}/${end}/541/index.m3u8" catchup-days="7", Discovery Turbo 
 http://10.0.7.77:5001/live/541.m3u8
-#EXTINF:-1 tvg-chno="551" tvg-name="&Flix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", &Flix HD 
+#EXTINF:-1 tvg-id="1322" tvg-name="&Flix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", &Flix HD 
 http://10.0.7.77:5001/live/1322.m3u8
-#EXTINF:-1 tvg-chno="552" tvg-name="And Prive HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", And Prive HD 
+#EXTINF:-1 tvg-id="1349" tvg-name="And Prive HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", And Prive HD 
 http://10.0.7.77:5001/live/1349.m3u8
-#EXTINF:-1 tvg-chno="520" tvg-name="CN HD+ English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" tvg-language="English" tvg-type="Kids" group-title="Kids", CN HD+ 
+#EXTINF:-1 tvg-id="1079" tvg-name="CN HD+ English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" tvg-language="English" tvg-type="Kids" group-title="Kids", CN HD+ 
 http://10.0.7.77:5001/live/1079.m3u8
-#EXTINF:-1 tvg-chno="521" tvg-name="Nick HD+" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+ 
+#EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+ 
 http://10.0.7.77:5001/live/1226.m3u8
-#EXTINF:-1 tvg-chno="522" tvg-name="Nickelodeon" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nickelodeon 
+#EXTINF:-1 tvg-id="547" tvg-name="Nickelodeon" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nickelodeon 
 http://10.0.7.77:5001/live/547.m3u8
-#EXTINF:-1 tvg-chno="523" tvg-name="Nickelodeon Jr." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nickelodeon Jr. 
+#EXTINF:-1 tvg-id="548" tvg-name="Nickelodeon Jr." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nickelodeon Jr. 
 http://10.0.7.77:5001/live/548.m3u8
