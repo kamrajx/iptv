@@ -110,10 +110,6 @@ http://10.0.7.77:5001/live/476.m3u8
 http://10.0.7.77:5001/live/483.m3u8
 #EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
 http://10.0.7.77:5001/live/1477.m3u8
-#EXTINF:-1 tvg-id=sl476 tvg-name="SL Sony MAX HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", SL Sony MAX HD
-http://10.0.7.77:5001/live/sl476.m3u8
-#EXTINF:-1 tvg-id=sl483 tvg-name="SL Sony MAX 2" tvg-logo="http://10.0.7.77:5001/jtvimage/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", SL Sony MAX 2
-http://10.0.7.77:5001/live/sl483.m3u8
 #EXTINF:-1 tvg-id=2762 tvg-name="NH Studioz" tvg-logo="http://10.0.7.77:5001/jtvimage/NH_Studioz.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", NH Studioz
 http://10.0.7.77:5001/live/2762.m3u8
 #EXTINF:-1 tvg-id=1763 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://10.0.7.77:5001/jtvimage/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
