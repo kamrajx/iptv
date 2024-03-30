@@ -27,15 +27,38 @@ cat index.nl.m3u >> ./index.local.eng.in.m3u
 cat local.kids.eng.in.m3u >> ./index.local.eng.in.m3u
 cat index.nl.m3u >> ./index.local.eng.in.m3u
 
+#Telugu [local.tel]
+#movies 
+cat local.tel.movies.in.m3u > ./index.local.tel.in.m3u
+cat index.nl.m3u >> ./index.local.tel.in.m3u
+
+#mal [local.mal]
+#movies
+cat local.mal.movies.in.m3u > ./index.local.mal.in.m3u
+cat index.nl.m3u >> ./index.local.mal.in.m3u
+
+#kan [local.kan]
+#movies
+cat local.kan.movies.in.m3u > ./index.local.kan.in.m3u
+cat index.nl.m3u >> ./index.local.kan.in.m3u
+
+#hindi [local.hid]
+#movies
+cat local.hid.movies.in.m3u > ./index.local.hid.in.m3u
+cat index.nl.m3u >> ./index.local.hid.in.m3u
+
 
 #add to all index.in [in]
-echo "#EXTM3U  x-tvg-url="https://tobalan.github.io/epg.xml.gz"" > ./index.in.m3u
 #echo "#EXTM3U  x-tvg-url="https://tobalan.github.io/epg.xml.gz"" > ./index.in.m3u
 #cat index.nl.m3u >> ./index.in.m3u
-cat index.local.tam.in.m3u >> ./index.in.m3u
+cat index.local.tam.in.m3u > ./index.in.m3u
 #cat index.nl.m3u >> ./index.in.m3u
 cat index.local.eng.in.m3u >> ./index.in.m3u
 #cat index.nl.m3u >> ./index.in.m3u
+cat index.local.tel.in.m3u >> ./index.in.m3u
+cat index.local.mal.in.m3u >> ./index.in.m3u
+cat index.local.kan.in.m3u >> ./index.in.m3u
+cat index.local.hid.in.m3u >> ./index.in.m3u
 
 
 #samtv

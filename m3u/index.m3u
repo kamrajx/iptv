@@ -1,4 +1,3 @@
-#EXTM3U  x-tvg-url=https://tobalan.github.io/epg.xml.gz
 #EXTINF:-1 tvg-id="1356" tvg-name="Zee Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Zee Tamil HD 
 http://10.0.7.77:5001/live/1356.m3u8
 #EXTINF:-1 tvg-id="896" tvg-name="Sun TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Sun TV HD 
@@ -81,6 +80,48 @@ http://10.0.7.77:5001/live/1226.m3u8
 http://10.0.7.77:5001/live/547.m3u8
 #EXTINF:-1 tvg-id="548" tvg-name="Nickelodeon Jr." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nickelodeon Jr. 
 http://10.0.7.77:5001/live/548.m3u8
+#EXTINF:-1 tvg-id=1363 tvg-name="Zee Cinemalu HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Zee_Cinemalu_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", Zee Cinemalu HD
+http://10.0.7.77:5001/live/1363.m3u8
+#EXTINF:-1 tvg-id=1665 tvg-name="ETV Cinema HD " tvg-logo="http://10.0.7.77:5001/jtvimage/ETV_Cinema_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", ETV Cinema HD 
+http://10.0.7.77:5001/live/1665.m3u8
+#EXTINF:-1 tvg-id=899 tvg-name="Gemini Movies HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", Gemini Movies HD
+http://10.0.7.77:5001/live/899.m3u8
+#EXTINF:-1 tvg-id=684 tvg-name="Gemini Life" tvg-logo="http://10.0.7.77:5001/jtvimage/Gemini_Life.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", Gemini Life
+http://10.0.7.77:5001/live/684.m3u8
+#EXTINF:-1 tvg-id=1754 tvg-name="Surya Movies" tvg-logo="http://10.0.7.77:5001/jtvimage/Surya_Movies.png" tvg-language="Malayalam" tvg-type="Movies" group-title="Movies", Surya Movies
+http://10.0.7.77:5001/live/1754.m3u8
+#EXTINF:-1 tvg-id=1746 tvg-name="Zee Picchar HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Zee_Picchar_HD.png" tvg-language="Kannada" tvg-type="Movies" group-title="Movies", Zee Picchar HD
+http://10.0.7.77:5001/live/1746.m3u8
+#EXTINF:-1 tvg-id=678 tvg-name="Udaya Movies" tvg-logo="http://10.0.7.77:5001/jtvimage/Udaya_Movies.png" tvg-language="Kannada" tvg-type="Movies" group-title="Movies", Udaya Movies
+http://10.0.7.77:5001/live/678.m3u8
+#EXTINF:-1 tvg-id=1632 tvg-name="Colors Kannada Cinema" tvg-logo="http://10.0.7.77:5001/jtvimage/Colors_Kannada_Cinema.png" tvg-language="Kannada" tvg-type="Movies" group-title="Movies", Colors Kannada Cinema
+http://10.0.7.77:5001/live/1632.m3u8
+#EXTINF:-1 tvg-id=1633 tvg-name="Public Movies" tvg-logo="http://10.0.7.77:5001/jtvimage/Public_Movies.png" tvg-language="Kannada" tvg-type="Movies" group-title="Movies", Public Movies
+http://10.0.7.77:5001/live/1633.m3u8
+#EXTINF:-1 tvg-id=165 tvg-name="Zee Cinema HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD
+http://10.0.7.77:5001/live/165.m3u8
+#EXTINF:-1 tvg-id=185 tvg-name="And Pictures HD" tvg-logo="http://10.0.7.77:5001/jtvimage/And_Pictures_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures HD
+http://10.0.7.77:5001/live/185.m3u8
+#EXTINF:-1 tvg-id=476 tvg-name="Sony Max HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
+http://10.0.7.77:5001/live/476.m3u8
+#EXTINF:-1 tvg-id=483 tvg-name="Sony MAX2" tvg-logo="http://10.0.7.77:5001/jtvimage/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX2
+http://10.0.7.77:5001/live/483.m3u8
+#EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
+http://10.0.7.77:5001/live/1477.m3u8
+#EXTINF:-1 tvg-id=sl476 tvg-name="SL Sony MAX HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", SL Sony MAX HD
+http://10.0.7.77:5001/live/sl476.m3u8
+#EXTINF:-1 tvg-id=sl483 tvg-name="SL Sony MAX 2" tvg-logo="http://10.0.7.77:5001/jtvimage/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", SL Sony MAX 2
+http://10.0.7.77:5001/live/sl483.m3u8
+#EXTINF:-1 tvg-id=2762 tvg-name="NH Studioz" tvg-logo="http://10.0.7.77:5001/jtvimage/NH_Studioz.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", NH Studioz
+http://10.0.7.77:5001/live/2762.m3u8
+#EXTINF:-1 tvg-id=1763 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://10.0.7.77:5001/jtvimage/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
+http://10.0.7.77:5001/live/1763.m3u8
+#EXTINF:-1 tvg-id=487 tvg-name="Zee Bollywood" tvg-logo="http://10.0.7.77:5001/jtvimage/Zee_Classic.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Bollywood
+http://10.0.7.77:5001/live/487.m3u8
+#EXTINF:-1 tvg-id=488 tvg-name="Zee Action" tvg-logo="http://10.0.7.77:5001/jtvimage/Zee_Action.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Action
+http://10.0.7.77:5001/live/488.m3u8
+#EXTINF:-1 tvg-id=182 tvg-name="B4U Movies" tvg-logo="http://10.0.7.77:5001/jtvimage/B4U_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
+http://10.0.7.77:5001/live/182.m3u8
 #EXTINF:-1 tvg-id="Tamilvision.ca" tvg-chno="180" tvg-name="Tamil Vision TV" tvg-country="CA" tvg-language="Tamil" tvg-type="Entertainment" tvg-shift="-9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="Entertainment",Tamil Vision HD
 https://live.tamilvision.tv/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-id="3TamilTV.in" tvg-chno="181" tvg-name="3 Tamil TV" tvg-country="AU" tvg-language="Tamil" tvg-type="Entertainment" tvg-shift="-9" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Entertainment",3 Tamil TV (720p)
