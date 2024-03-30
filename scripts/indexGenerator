@@ -53,6 +53,8 @@ cat index.nl.m3u >> ./index.local.hid.in.m3u
 #cat index.nl.m3u >> ./index.in.m3u
 cat index.local.tam.in.m3u > ./index.in.m3u
 #cat index.nl.m3u >> ./index.in.m3u
+cat net.tam.m3u >> ./index.in.m3u
+cat index.nl.m3u >> ./index.in.m3u 
 cat index.local.eng.in.m3u >> ./index.in.m3u
 #cat index.nl.m3u >> ./index.in.m3u
 cat index.local.tel.in.m3u >> ./index.in.m3u
@@ -66,9 +68,9 @@ cat sam.us.info.m3u > ./index.sam.us.m3u
 cat index.nl.m3u >> ./index.sam.us.m3u
 
 #free in web [net]
-cat net.tam.m3u > ./index.net.m3u
-cat index.nl.m3u >> ./index.net.m3u
-cat net.kids.m3u >> ./index.net.m3u
+#cat net.tam.m3u > ./index.net.m3u
+#cat index.nl.m3u >> ./index.net.m3u
+cat net.kids.m3u > ./index.net.m3u
 cat index.nl.m3u >> ./index.net.m3u
 cat net.edu.m3u >> ./index.net.m3u
 cat index.nl.m3u >> ./index.net.m3u

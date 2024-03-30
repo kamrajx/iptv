@@ -1,7 +1,3 @@
-#EXTINF:-1 tvg-id="Tamilvision.ca" tvg-chno="180" tvg-name="Tamil Vision TV" tvg-country="CA" tvg-language="Tamil" tvg-type="Entertainment" tvg-shift="-9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="Entertainment",Tamil Vision HD
-https://live.tamilvision.tv/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="3TamilTV.in" tvg-chno="181" tvg-name="3 Tamil TV" tvg-country="AU" tvg-language="Tamil" tvg-type="Entertainment" tvg-shift="-9" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Entertainment",3 Tamil TV (720p)
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSKidsEST.us" tvg-name="PBS Kids (EST)" tvg-country="US" tvg-shift="-5" tvg-language="English" tvg-logo="https://i.imgur.com/hkZntiL.png" group-title="Education;Kids",PBS Kids (EST)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Animation",Toonami (1080p) [Geo-blocked]
