@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-id=1746 tvg-name="Zee Picchar HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Zee_Picchar_HD.png" tvg-language="Kannada" tvg-type="Movies" group-title="Movies", Zee Picchar HD
+#EXTINF:-1 tvg-chno="151" tvg-id=1746 tvg-name="Zee Picchar HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Zee_Picchar_HD.png" tvg-language="Kannada" tvg-type="Movies" group-title="Movies", Zee Picchar HD
 http://10.0.7.77:5001/live/1746.m3u8
-#EXTINF:-1 tvg-id=678 tvg-name="Udaya Movies" tvg-logo="http://10.0.7.77:5001/jtvimage/Udaya_Movies.png" tvg-language="Kannada" tvg-type="Movies" group-title="Movies", Udaya Movies
+#EXTINF:-1 tvg-chno="152" tvg-id=678 tvg-name="Udaya Movies" tvg-logo="http://10.0.7.77:5001/jtvimage/Udaya_Movies.png" tvg-language="Kannada" tvg-type="Movies" group-title="Movies", Udaya Movies
 http://10.0.7.77:5001/live/678.m3u8
-#EXTINF:-1 tvg-id=1632 tvg-name="Colors Kannada Cinema" tvg-logo="http://10.0.7.77:5001/jtvimage/Colors_Kannada_Cinema.png" tvg-language="Kannada" tvg-type="Movies" group-title="Movies", Colors Kannada Cinema
+#EXTINF:-1 tvg-chno="153" tvg-id=1632 tvg-name="Colors Kannada Cinema" tvg-logo="http://10.0.7.77:5001/jtvimage/Colors_Kannada_Cinema.png" tvg-language="Kannada" tvg-type="Movies" group-title="Movies", Colors Kannada Cinema
 http://10.0.7.77:5001/live/1632.m3u8
-#EXTINF:-1 tvg-id=1633 tvg-name="Public Movies" tvg-logo="http://10.0.7.77:5001/jtvimage/Public_Movies.png" tvg-language="Kannada" tvg-type="Movies" group-title="Movies", Public Movies
+#EXTINF:-1 tvg-chno="154" tvg-id=1633 tvg-name="Public Movies" tvg-logo="http://10.0.7.77:5001/jtvimage/Public_Movies.png" tvg-language="Kannada" tvg-type="Movies" group-title="Movies", Public Movies
 http://10.0.7.77:5001/live/1633.m3u8

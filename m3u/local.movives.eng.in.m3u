@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-id="1322" tvg-name="&Flix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", &Flix HD 
+#EXTINF:-1 tvg-chno="602" tvg-id="1322" tvg-name="&Flix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", &Flix HD 
 http://10.0.7.77:5001/live/1322.m3u8
-#EXTINF:-1 tvg-id="1349" tvg-name="And Prive HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", And Prive HD 
+#EXTINF:-1 tvg-chno="603" tvg-id="1349" tvg-name="And Prive HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", And Prive HD 
 http://10.0.7.77:5001/live/1349.m3u8
-#EXTINF:-1 tvg-id=2756 tvg-name="Star Entertainment" tvg-logo="http://10.0.7.77:5001/jtvimage/Star_Entertainment.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Star Entertainment
+#EXTINF:-1 tvg-chno="604" tvg-id=2756 tvg-name="Star Entertainment" tvg-logo="http://10.0.7.77:5001/jtvimage/Star_Entertainment.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Star Entertainment
 http://10.0.7.77:5001/live/2756.m3u8

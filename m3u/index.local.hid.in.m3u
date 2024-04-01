@@ -1,20 +1,20 @@
-#EXTINF:-1 tvg-id=165 tvg-name="Zee Cinema HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD
+#EXTINF:-1 tvg-chno="230" tvg-id=165 tvg-name="Zee Cinema HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD
 http://10.0.7.77:5001/live/165.m3u8
-#EXTINF:-1 tvg-id=185 tvg-name="And Pictures HD" tvg-logo="http://10.0.7.77:5001/jtvimage/And_Pictures_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures HD
+#EXTINF:-1 tvg-chno="231" tvg-id=185 tvg-name="And Pictures HD" tvg-logo="http://10.0.7.77:5001/jtvimage/And_Pictures_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures HD
 http://10.0.7.77:5001/live/185.m3u8
-#EXTINF:-1 tvg-id=476 tvg-name="Sony Max HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
+#EXTINF:-1 tvg-chno="232" tvg-id=476 tvg-name="Sony Max HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
 http://10.0.7.77:5001/live/476.m3u8
-#EXTINF:-1 tvg-id=483 tvg-name="Sony MAX2" tvg-logo="http://10.0.7.77:5001/jtvimage/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX2
+#EXTINF:-1 tvg-chno="233" tvg-id=483 tvg-name="Sony MAX2" tvg-logo="http://10.0.7.77:5001/jtvimage/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX2
 http://10.0.7.77:5001/live/483.m3u8
-#EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
+#EXTINF:-1 tvg-chno="234" tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
 http://10.0.7.77:5001/live/1477.m3u8
-#EXTINF:-1 tvg-id=2762 tvg-name="NH Studioz" tvg-logo="http://10.0.7.77:5001/jtvimage/NH_Studioz.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", NH Studioz
+#EXTINF:-1 tvg-chno="235" tvg-id=2762 tvg-name="NH Studioz" tvg-logo="http://10.0.7.77:5001/jtvimage/NH_Studioz.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", NH Studioz
 http://10.0.7.77:5001/live/2762.m3u8
-#EXTINF:-1 tvg-id=1763 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://10.0.7.77:5001/jtvimage/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
+#EXTINF:-1 tvg-chno="236" tvg-id=1763 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://10.0.7.77:5001/jtvimage/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
 http://10.0.7.77:5001/live/1763.m3u8
-#EXTINF:-1 tvg-id=487 tvg-name="Zee Bollywood" tvg-logo="http://10.0.7.77:5001/jtvimage/Zee_Classic.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Bollywood
+#EXTINF:-1 tvg-chno="237" tvg-id=487 tvg-name="Zee Bollywood" tvg-logo="http://10.0.7.77:5001/jtvimage/Zee_Classic.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Bollywood
 http://10.0.7.77:5001/live/487.m3u8
-#EXTINF:-1 tvg-id=488 tvg-name="Zee Action" tvg-logo="http://10.0.7.77:5001/jtvimage/Zee_Action.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Action
+#EXTINF:-1 tvg-chno="238" tvg-id=488 tvg-name="Zee Action" tvg-logo="http://10.0.7.77:5001/jtvimage/Zee_Action.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Action
 http://10.0.7.77:5001/live/488.m3u8
-#EXTINF:-1 tvg-id=182 tvg-name="B4U Movies" tvg-logo="http://10.0.7.77:5001/jtvimage/B4U_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
+#EXTINF:-1 tvg-chno="239" tvg-id=182 tvg-name="B4U Movies" tvg-logo="http://10.0.7.77:5001/jtvimage/B4U_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
 http://10.0.7.77:5001/live/182.m3u8

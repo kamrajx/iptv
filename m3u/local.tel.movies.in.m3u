@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-id=1363 tvg-name="Zee Cinemalu HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Zee_Cinemalu_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", Zee Cinemalu HD
+#EXTINF:-1 tvg-chno="131" tvg-id=1363 tvg-name="Zee Cinemalu HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Zee_Cinemalu_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", Zee Cinemalu HD
 http://10.0.7.77:5001/live/1363.m3u8
-#EXTINF:-1 tvg-id=1665 tvg-name="ETV Cinema HD " tvg-logo="http://10.0.7.77:5001/jtvimage/ETV_Cinema_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", ETV Cinema HD 
+#EXTINF:-1 tvg-chno="132" tvg-id=1665 tvg-name="ETV Cinema HD " tvg-logo="http://10.0.7.77:5001/jtvimage/ETV_Cinema_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", ETV Cinema HD 
 http://10.0.7.77:5001/live/1665.m3u8
-#EXTINF:-1 tvg-id=899 tvg-name="Gemini Movies HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", Gemini Movies HD
+#EXTINF:-1 tvg-chno="133" tvg-id=899 tvg-name="Gemini Movies HD" tvg-logo="http://10.0.7.77:5001/jtvimage/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", Gemini Movies HD
 http://10.0.7.77:5001/live/899.m3u8
-#EXTINF:-1 tvg-id=684 tvg-name="Gemini Life" tvg-logo="http://10.0.7.77:5001/jtvimage/Gemini_Life.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", Gemini Life
+#EXTINF:-1 tvg-chno="134" tvg-id=684 tvg-name="Gemini Life" tvg-logo="http://10.0.7.77:5001/jtvimage/Gemini_Life.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", Gemini Life
 http://10.0.7.77:5001/live/684.m3u8
